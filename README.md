@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @charlie-makarova
 - 👀 I’m interested in art, streaming, gaming, coding
 - 🌱 I’m currently learning more about C++ , Lua , Javascript
-- 📫 How to reach me: via Discord: Charlzie#7431
+- 📫 How to reach me: via Discord: CharlieTheLocalTherapist#6114
